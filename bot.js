@@ -20,7 +20,7 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "63456345g36734tgs";
+const prefix = "634563465g36734tgs";
 /////////////////////////
 ////////////////////////
 
